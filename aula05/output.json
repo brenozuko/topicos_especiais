@@ -1,5 +1,17 @@
 {
-    "mg": "Minas Gerais",
-    "rj": "Rio de Janeiro",
-    "sp": "São Paulo"
+    "azul": {
+        "hex": "#0000FF",
+        "nome": "Azul",
+        "rgb": "0, 0, 255"
+    },
+    "verde": {
+        "hex": "#00FF00",
+        "nome": "Verde",
+        "rgb": "0, 255, 0"
+    },
+    "vermelho": {
+        "hex": "#FFFF00",
+        "nome": "Vermelho",
+        "rgb": "255, 0, 0"
+    }
 }
