@@ -20,3 +20,4 @@ os.chdir(dir)
 
 for i in os.listdir(dir):
     os.rmdir(str(i))
+    
